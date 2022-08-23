@@ -19,7 +19,7 @@ python main_BiLSTM.py
 # Citation
 Please cite our paper if you use the code!
 
-@inproceedings{xiang-etal-2022-encoding,
+@inproceedings{Wei.X:et.al:2022:ACL-Fingdings,
     title = "Encoding and Fusing Semantic Connection and Linguistic Evidence for Implicit Discourse Relation Recognition",
     author = "Xiang, Wei and Wang, Bang and Dai, Lu and Mo, Yijun",
     booktitle = "Findings of the Association for Computational Linguistics: ACL 2022",
